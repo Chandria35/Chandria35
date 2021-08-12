@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chandria35
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Chandria35 I'm an Social Mmedia Manager.
+- 👀 I’m interested in making money online.
+- 🌱 I’m currently learning how to operate an online business.
+- 💞️ I’m looking to collaborate on projects, campaigns, responses to consumer feedback.
+- 📫 You may contact me at <chandriascott.marketer@gmail.com > 
 
 <!---
 Chandria35/Chandria35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
